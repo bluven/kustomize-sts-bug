@@ -1,0 +1,5 @@
+resources:
+  - all.yaml
+
+commonLabels:
+  app.bocloud.com/name: foo
